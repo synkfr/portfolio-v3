@@ -34,20 +34,20 @@ This is a professional portfolio website designed to showcase projects and skill
  - **Light/Dark Mode**  
     <div><img src="mobile-look.jpeg" alt="Mobile Look"></div>
 
-  ---
-
+---
   ## How to Use
 
- 1. Clone the repository:
-    ```bash
-       git clone https://github.com/synkfr/portfolio-v2.git
-        ```
-          2. Open the project in your preferred code editor.
-          3. Customize the content, themes, or styles as needed.
-          4. Deploy the website to your preferred hosting platform.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/synkfr/portfolio-v2.git
+   ```
+2. Open the project in your preferred code editor.
+3. Customize the content, themes, or styles as needed.
+4. Deploy the website to your preferred hosting platform.
 
-          ---
+---
 
+ 
  ## License
 
    This project is open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as you see fit.
