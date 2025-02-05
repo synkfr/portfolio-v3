@@ -540,6 +540,7 @@ header.sticky {
 .form-input,
 .form-textarea {
   padding: 0.5rem;
+  color: var(--text-color)
   border: 2px solid var(--contact-border-color);
   background-color: var(--contact-bg-color);
   box-shadow: var(--card-box-shadow);
