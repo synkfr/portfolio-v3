@@ -39,7 +39,7 @@ This is a professional portfolio website designed to showcase projects and skill
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/synkfr/portfolio-v2.git
+   git clone https://github.com/synkfr/portfolio-v3.git
    ```
 2. Open the project in your preferred code editor.
 3. Customize the content, themes, or styles as needed.
