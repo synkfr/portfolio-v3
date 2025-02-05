@@ -5,7 +5,7 @@ This is a professional portfolio website designed to showcase projects and skill
 ---
 
 ## Features
-- **Loader**: A loading before opening the website.
+- **Loader**: A loading screen before opening the website.
 - **working Contact me**: even though it is a static website. using [Web3forms](https://web3forms.com) you can use the contact me form (Get in Touch section) in this.
 
 - **Dual Themes**: Switch between **dark** and **light** modes for a personalized viewing experience.
