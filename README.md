@@ -5,9 +5,8 @@ This is a professional portfolio website designed to showcase projects and skill
 ---
 
 ## Features
-- **Loader**: A loading screen before opening the website.
-- **working Contact me**: even though it is a static website. using [Web3forms](https://web3forms.com) you can use the contact me form (Get in Touch section) in this.
-
+- **Loading Screen**: A stylish loading animation displayed before the website fully loads.
+- **Functional Contact Form**: Even though it's a static website, the "Get in Touch" section is functional using Web3Forms. Easily send and receive messages.
 - **Dual Themes**: Switch between **dark** and **light** modes for a personalized viewing experience.
 - **Responsive Design**: Optimized for **desktop**, **tablet**, and **mobile** devices.
 - **Clean and Modern UI**: A clean, user-friendly interface that highlights your work effectively.
